@@ -1,5 +1,8 @@
 # End-to-end-Cell-Segmentation-Using-Yolo-v8
 
+This is an end-to-end ml pipeline implementation with the data cleaning, validation, model training and testing steps in python with a flask web app interface. I have focused on proper python project structure, with separate modules for the code and detailed logging
+
+
 ## Workflows
 
 1. constants
